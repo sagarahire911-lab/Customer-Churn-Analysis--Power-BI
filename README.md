@@ -32,3 +32,13 @@ to identify why customers are leaving and what can be done to retain them.
 - DAX (Data Analysis Expressions)
 - Data Modeling
 - Data Visualization
+
+## 📸 Dashboard Preview
+
+### Page 1 - Overview
+![Dashboard Page 1](Dashboard_Page1.png)
+
+### Page 2 - Service Analysis
+![Dashboard Page 2](Dashboard_Page2.png)
+
+
